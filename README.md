@@ -84,13 +84,3 @@ Hi there 👋
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
-
----
-
-<h3 align="left">Find me on:</h3>
-
-<p align="left">
-     <a href="https://www.leetcode.com/burgerskill" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="burgerskill" height="30" width="40" />
-     </a>
-</p>
